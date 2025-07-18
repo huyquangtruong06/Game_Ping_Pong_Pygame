@@ -21,17 +21,17 @@ Play 1v1 locally with two players controlling paddles on opposite sides!
 
 ## 📁 Project Structure
 
--ball.py – Handles ball movement and collision logic
+- ball.py – Handles ball movement and collision logic
 
--define.py – Contains game constants and settings
+- define.py – Contains game constants and settings
 
--ping_pong.py – Main game loop and input handling
+- ping_pong.py – Main game loop and input handling
 
--player.py – Defines paddle behavior and movement
+- player.py – Defines paddle behavior and movement
 
--RUSHHOUR.png – Custom window icon for the game
+- RUSHHOUR.png – Custom window icon for the game
 
--README.md – Project documentation (you're reading it!)
+- README.md – Project documentation (you're reading it!)
 
 ---
 
